@@ -1,0 +1,14 @@
+.section-center{
+    margin: auto;
+    width:60%;
+}
+.btn{
+    color:black;
+    background-color: #1795dd;
+    border-radius: 8px ;
+}
+#amount{
+    width:40px;
+    height:auto;
+    border-radius: 8px;
+}
